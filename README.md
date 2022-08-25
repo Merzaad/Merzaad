@@ -3,6 +3,7 @@
 <br>
 <p align="center"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="tailwindss" width="40" height="40"/> </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/material-ui.png" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> 
