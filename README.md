@@ -10,11 +10,12 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/HLCFWVXP/New-Project.png" alt="nextjs" width="40" height="40"/> </a>
-<br />
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://redux.js.org/img/redux.svg" alt="redux" width="40" height="40"/>
 <a href="https://react-query.tanstack.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/CKZv1CYs/reactquery.png" alt="react-query" width="40" height="40"/>
 <a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/xCfwGrQY/pwa-icon.png" alt="PWA" width="40" height="40"/> </a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="40" height="40"/> </a> 
+<br />
+<a href="https://axios-http.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" alt="axios" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png" alt="django" width="40" height="40"/>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
