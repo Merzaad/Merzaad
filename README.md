@@ -1,26 +1,30 @@
 <h1 align="center">wasd</h1>
 <br>
-<p align="center"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="tailwindss" width="40" height="40"/> </a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/material-ui.png" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/HLCFWVXP/New-Project.png" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://redux.js.org/img/redux.svg" alt="redux" width="40" height="40"/>
-<a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/CKZv1CYs/reactquery.png" alt="TanStack Query" width="40" height="40"/>
-<a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/xCfwGrQY/pwa-icon.png" alt="PWA" width="40" height="40"/> </a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="40" height="40"/> </a> 
-<br />
-<a href="https://axios-http.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" alt="axios" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" alt="expressjs" width="35" height="35"/> </a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png" alt="django" width="40" height="40"/>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-</p> 
+<h6>Things i'm learning</h6>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/-Next-ffffff?style=flat-square&logo=nextdotjs&logoColor=black" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-ac4afe?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="ReactQuery" src="https://img.shields.io/badge/-React Query-f94455?style=flat-square&logo=reactquery&logoColor=white" />
+  <img alt="Axios" src="https://img.shields.io/badge/-Axios-5a29e4?style=flat-square&logo=axios&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="TaiwindCSS" src="https://img.shields.io/badge/-Tailwind CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-067ef8?style=flat-square&logo=mui&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8712fe?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="PWA" src="https://img.shields.io/badge/-PWA-5a06c9?style=flat-square&logo=pwa&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=noedotjs&logoColor=white" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-ffffff?style=flat-square&logo=express&logoColor=black" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
+  <img alt="Eslint" src="https://img.shields.io/badge/-Eslint-4b32c2?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2297ef?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-d82c20?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-0073a4?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-002b1a?style=flat-square&logo=django&logoColor=white" />
+</p>
+</p>
