@@ -17,7 +17,7 @@
   <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-067ef8?style=flat-square&logo=mui&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8712fe?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="PWA" src="https://img.shields.io/badge/-PWA-5a06c9?style=flat-square&logo=pwa&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=noedotjs&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-ffffff?style=flat-square&logo=express&logoColor=black" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
   <img alt="Eslint" src="https://img.shields.io/badge/-Eslint-4b32c2?style=flat-square&logo=eslint&logoColor=white" />
@@ -27,4 +27,4 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-0073a4?style=flat-square&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-002b1a?style=flat-square&logo=django&logoColor=white" />
 </p>
-</p>
+
