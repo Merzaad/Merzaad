@@ -4,7 +4,8 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next" src="https://img.shields.io/badge/-Next-ffffff?style=flat-square&logo=nextdotjs&logoColor=black" />
-   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/-SvelteKit-ff3e00?style=flat-square&logo=svelte&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-50b98a?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
