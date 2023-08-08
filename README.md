@@ -2,16 +2,18 @@
 <br>
 <h6>Things i'm learning</h6>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Next" src="https://img.shields.io/badge/-Next-ffffff?style=flat-square&logo=nextdotjs&logoColor=black" />
-  <img alt="Svelte" src="https://img.shields.io/badge/-SvelteKit-ff3e00?style=flat-square&logo=svelte&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-50b98a?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/-Next-ffffff?style=flat-square&logo=nextdotjs&logoColor=black" />
+  <img alt="Svelte" src="https://img.shields.io/badge/-SvelteKit-ff3e00?style=flat-square&logo=svelte&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-50b98a?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-ac4afe?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-F05032?style=flat-square&logo=Z&logoColor=white" />
+  <img alt="Immer" src="https://img.shields.io/badge/-Immer-00e7c3?style=flat-square&logo=immer&logoColor=white" />
   <img alt="ReactQuery" src="https://img.shields.io/badge/-React Query-f94455?style=flat-square&logo=reactquery&logoColor=white" />
   <img alt="Axios" src="https://img.shields.io/badge/-Axios-5a29e4?style=flat-square&logo=axios&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
