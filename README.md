@@ -23,6 +23,9 @@
   <img alt="PWA" src="https://img.shields.io/badge/-PWA-5a06c9?style=flat-square&logo=pwa&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black" />
+  <img alt="Bun" src="https://img.shields.io/badge/-Bun-fbf0df?style=flat-square&logo=bun&logoColor=black" />
+  <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-86b91a?style=flat-square&logo=vitest&logoColor=white" />
+  <img alt="Testing Library" src="https://img.shields.io/badge/-Testing Library-ce3639?style=flat-square&logo=testinglibrary&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
   <img alt="Eslint" src="https://img.shields.io/badge/-Eslint-4b32c2?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
