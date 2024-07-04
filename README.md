@@ -8,13 +8,16 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next" src="https://img.shields.io/badge/-Next-ffffff?style=flat-square&logo=nextdotjs&logoColor=black" />
+  <img alt="WXT" src="https://img.shields.io/badge/-WXT-53bc4a?style=flat-square&logo=Z&logoColor=black" />
   <img alt="Svelte" src="https://img.shields.io/badge/-SvelteKit-ff3e00?style=flat-square&logo=svelte&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-50b98a?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-ac4afe?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-F05032?style=flat-square&logo=Z&logoColor=white" />
+  <img alt="Jotai" src="https://img.shields.io/badge/-Jotai-ffffff?style=flat-square&logo=Z&logoColor=white" />
   <img alt="Immer" src="https://img.shields.io/badge/-Immer-00e7c3?style=flat-square&logo=immer&logoColor=white" />
   <img alt="ReactQuery" src="https://img.shields.io/badge/-React Query-f94455?style=flat-square&logo=reactquery&logoColor=white" />
+  <img alt="SWR" src="https://img.shields.io/badge/-SWR-ffffff?style=flat-square&logo=swr&logoColor=black" />
   <img alt="Axios" src="https://img.shields.io/badge/-Axios-5a29e4?style=flat-square&logo=axios&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="TaiwindCSS" src="https://img.shields.io/badge/-Tailwind CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
