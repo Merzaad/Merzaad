@@ -17,6 +17,7 @@
   <img alt="Jotai" src="https://img.shields.io/badge/-Jotai-ffffff?style=flat-square&logo=Z&logoColor=white" />
   <img alt="Immer" src="https://img.shields.io/badge/-Immer-00e7c3?style=flat-square&logo=immer&logoColor=white" />
   <img alt="ReactQuery" src="https://img.shields.io/badge/-React Query-f94455?style=flat-square&logo=reactquery&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="SWR" src="https://img.shields.io/badge/-SWR-ffffff?style=flat-square&logo=swr&logoColor=black" />
   <img alt="Axios" src="https://img.shields.io/badge/-Axios-5a29e4?style=flat-square&logo=axios&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
